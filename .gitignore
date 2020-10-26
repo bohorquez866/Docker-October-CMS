@@ -1,0 +1,10 @@
+.env
+db/
+vendor/
+.idea/
+.htaccess
+.DS_Store
+*.log
+vendor/
+composer.lock
+.vs/
